@@ -1,6 +1,6 @@
 # PDF Exporters Comparison
 
-A side-by-side comparison of PDF generation libraries evaluated for use in an EHS (Environment, Health & Safety) application built on **ASP.NET Core** (backend) and **React + Vite** (frontend).
+A side-by-side comparison of PDF generation libraries evaluated for use in an  **ASP.NET Core** (backend) and **React + Vite** (frontend).
 
 The comparison covers license, pricing, stack fit, HTML/CSS support, maintenance status, merits, demerits, best use case, and a recommendation for each library.
 
@@ -28,7 +28,7 @@ The comparison covers license, pricing, stack fit, HTML/CSS support, maintenance
 
 ## Summary Recommendation
 
-For a typical EHS stack:
+For a typical *** stack:
 - **Backend:** QuestPDF for structured reports + PuppeteerSharp (or Gotenberg) for HTML-rendered dashboards.
 - **Frontend:** @react-pdf/renderer for client-side PDF templates.
 
